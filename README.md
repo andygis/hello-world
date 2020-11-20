@@ -1,3 +1,3 @@
 # hello-world
-My first git
+My first git\n
 This is my first ever git repository
